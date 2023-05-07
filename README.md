@@ -5,13 +5,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreapallotta9)
-<br />
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/i4eh4qbi69oxryfoy4nj3xccu?si=cbc484e9dc09403c)
-<br />
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/apallottadev?utm_source=linktree_profile_share&ltsid=69cd51a9-decf-4074-8897-690c8418a672)
-<br />
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/552193145815957523)
-<br />
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21495048/eel-conquestador)
 
 # 💻 Known Technologies:
