@@ -87,6 +87,7 @@
 
 ## 🚀 Featured Projects
 
+<!-- PROJECTS:START -->
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**noir\_replay**](https://github.com/AndreaPallotta/noir_relay) | Serverless P2P encrypted messenger over Tor with self-destruct chat TTL policies | Rust · Flutter · Ed25519 · ChaCha20 · Arti |
@@ -97,6 +98,7 @@
 | [**devux\_os**](https://github.com/AndreaPallotta/devux_os) | Keyboard-driven Linux distro built from scratch — Wayland/Sway, systemd, custom package setup | LFS · Wayland · Sway · Shell |
 | [**dux**](https://github.com/AndreaPallotta/dux) | Parallel `du` clone with spin-lock traversal and top-N reporting, written in Mojo | Mojo |
 | [**ez-templates**](https://github.com/AndreaPallotta/ez-templates) | Published npm CLI for scaffolding Express, React, Rust/Axum, Go/Gin, and Elixir projects | Node.js · TypeScript · npm |
+<!-- PROJECTS:END -->
 
 ---
 
