@@ -104,9 +104,8 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaPallotta&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AndreaPallotta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreaPallotta&theme=tokyonight)
+![Languages by Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndreaPallotta&theme=tokyonight)
 
 </div>
 
@@ -114,6 +113,6 @@
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=AndreaPallotta&icon=6&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=AndreaPallotta&style=flat-square&color=58A6FF&label=Profile+Views)
 
 </div>
