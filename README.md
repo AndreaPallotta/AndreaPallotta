@@ -90,14 +90,12 @@
 <!-- PROJECTS:START -->
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**noir\_replay**](https://github.com/AndreaPallotta/noir_relay) | Serverless P2P encrypted messenger over Tor with self-destruct chat TTL policies | Rust · Flutter · Ed25519 · ChaCha20 · Arti |
-| [**strat\_hub**](https://github.com/AndreaPallotta/strat_hub) | Quantitative trading platform — Rust engine, PyO3 Python strategy bridge, grid optimizer, PDF tearsheets | Rust · PyO3 · React · TypeScript |
-| [**qex**](https://github.com/AndreaPallotta/qex) | Quantum experiment runner with noisy simulation, purity/entropy metrics & 3D Bloch sphere dashboard | Python · Cirq · Three.js · SQLite |
-| [**zyra**](https://github.com/AndreaPallotta/zyra) | Custom language compiling to zero-runtime ESM JS — full compiler, LSP server & VS Code extension | TypeScript · LSP · VS Code API |
-| [**gp\_forecast**](https://github.com/AndreaPallotta/gp_forecast) | Offline-first F1 race win predictor with a Bayesian model, glassmorphic UI for Android & Windows | Flutter · Dart · Riverpod · SQLite |
-| [**devux\_os**](https://github.com/AndreaPallotta/devux_os) | Keyboard-driven Linux distro built from scratch — Wayland/Sway, systemd, custom package setup | LFS · Wayland · Sway · Shell |
-| [**dux**](https://github.com/AndreaPallotta/dux) | Parallel `du` clone with spin-lock traversal and top-N reporting, written in Mojo | Mojo |
-| [**ez-templates**](https://github.com/AndreaPallotta/ez-templates) | Published npm CLI for scaffolding Express, React, Rust/Axum, Go/Gin, and Elixir projects | Node.js · TypeScript · npm |
+| [**subroutine**](https://github.com/AndreaPallotta/subroutine) | — | TypeScript · MDX · Astro · CSS |
+| [**strathub**](https://github.com/AndreaPallotta/strathub) | Full stack tool to develop and manage trading strategies | TypeScript · Python · Rust · JavaScript |
+| [**ez-templates**](https://github.com/AndreaPallotta/ez-templates) | — | TypeScript · Rust · JavaScript · Elixir |
+| [**qex**](https://github.com/AndreaPallotta/qex) | — | HTML · Python · Shell |
+| [**oura-whatsapp-bort**](https://github.com/AndreaPallotta/oura-whatsapp-bort) | Bot to forward Health data from Oura ring to Whatsapp | JavaScript · Shell · PowerShell |
+| [**gp\_forecast**](https://github.com/AndreaPallotta/gp_forecast) | Grand Prix prediction dashboard | Dart · C++ · CMake · Swift |
 <!-- PROJECTS:END -->
 
 ---
