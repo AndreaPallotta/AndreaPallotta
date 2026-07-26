@@ -104,7 +104,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreaPallotta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreaPallotta&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AndreaPallotta)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AndreaPallotta&theme=tokyonight&hide_border=true)
 
