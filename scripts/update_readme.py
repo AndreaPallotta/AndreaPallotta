@@ -74,7 +74,7 @@ def graphql_request(query: str, variables: dict) -> dict:
 def build_row(repo: dict) -> str:
     name = repo["name"]
     url = repo["url"]
-    desc = (repo.get("description") or "").strip() or "—"
+    desc = (repo.get("description") or "").strip() or "-"
     langs = [n["name"] for n in (repo.get("languages") or {}).get("nodes", [])]
     stack = " · ".join(langs[:4]) if langs else "—"
     # Escape underscores in name for markdown tables

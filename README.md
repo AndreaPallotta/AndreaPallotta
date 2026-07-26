@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Andrea+Pallotta;Production+Engineer+%40+SIG;Python+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+Go;Quantum+Tinkerer;Custom+Language+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Andrea+Pallotta;Software+Engineer;Python+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+Go;Quantum+Tinkerer;Custom+Language+Designer" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -19,11 +19,9 @@
 
 ## About Me
 
-Production engineer at **[SIG](https://sig.com)** on the equities & futures desk. Day-to-day is mostly Python — automation, monitoring, keeping things stable at market open.
+Software engineer into systems programming, language design, and building things from scratch. Currently working on [Zyra](https://github.com/AndreaPallotta/zyra), a language that compiles to JS with no runtime overhead. Three quantum computing projects deep, and recently shipped a Tor-based P2P messenger with E2E encryption in Rust.
 
-Side projects are all over the place. Currently building [Zyra](https://github.com/AndreaPallotta/zyra), a language I designed that compiles to JS with no runtime overhead. Also three quantum computing projects deep and not stopping, and recently shipped a Tor-based P2P messenger with E2E encryption in Rust.
-
-- Published on [npm](https://www.npmjs.com/~andreapallotta)
+- Published on [npm](https://www.npmjs.com/~andreapallotta) and [PyPI](https://pypi.org/user/andreapallotta/)
 - andreapallotta.dev@gmail.com
 
 ---

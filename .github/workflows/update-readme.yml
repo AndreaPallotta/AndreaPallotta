@@ -4,10 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * 0" # Every Sunday at midnight UTC
   workflow_dispatch:      # Allow manual trigger from GitHub UI
-  push:
-    branches: [main]
-    paths-ignore:
-      - "README.md"       # Don't re-trigger on the bot's own commit
 
 jobs:
   update-readme:
