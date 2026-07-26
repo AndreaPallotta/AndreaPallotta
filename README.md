@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Andrea+Pallotta+%F0%9F%91%8B;Production+Engineer+%40+SIG;Python+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+Go;Quantum+Tinkerer+%E2%9A%9B%EF%B8%8F;Custom+Language+Designer+%F0%9F%94%A4" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Andrea+Pallotta;Production+Engineer+%40+SIG;Python+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+Go;Quantum+Tinkerer;Custom+Language+Designer" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -17,20 +17,18 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-- 🏢 **Production Engineer** at [Susquehanna International Group (SIG)](https://sig.com) — Equities & Futures Desk
-- 🐍 Python automation, observability, and system health pipelines at scale
-- 🦀 Reaching for Rust when correctness and performance both matter
-- ⚛️ Quantum computing hobbyist — Cirq, Qiskit, and custom C++ gate simulators
-- 🔐 Security-minded: Tor-based P2P comms, applied cryptography, E2E encryption
-- 🔤 Currently compiling [Zyra](https://github.com/AndreaPallotta/zyra) — a strict language targeting zero-runtime ESM JS
-- 📦 Published on [npm](https://www.npmjs.com/~andreapallotta)
-- 📬 **andreapallotta.dev@gmail.com**
+Production engineer at **[SIG](https://sig.com)** on the equities & futures desk. Day-to-day is mostly Python — automation, monitoring, keeping things stable at market open.
+
+Side projects are all over the place. Currently building [Zyra](https://github.com/AndreaPallotta/zyra), a language I designed that compiles to JS with no runtime overhead. Also three quantum computing projects deep and not stopping, and recently shipped a Tor-based P2P messenger with E2E encryption in Rust.
+
+- Published on [npm](https://www.npmjs.com/~andreapallotta)
+- andreapallotta.dev@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -85,7 +83,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <!-- PROJECTS:START -->
 | Project | Description | Stack |
@@ -100,7 +98,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
