@@ -88,10 +88,10 @@ Side projects are all over the place. Currently building [Zyra](https://github.c
 <!-- PROJECTS:START -->
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**subroutine**](https://github.com/AndreaPallotta/subroutine) | — | TypeScript · MDX · Astro · CSS |
+| [**subroutine**](https://github.com/AndreaPallotta/subroutine) | Interactive Blog with computing-related articles | TypeScript · MDX · Astro · CSS |
 | [**strathub**](https://github.com/AndreaPallotta/strathub) | Full stack tool to develop and manage trading strategies | TypeScript · Python · Rust · JavaScript |
-| [**ez-templates**](https://github.com/AndreaPallotta/ez-templates) | — | TypeScript · Rust · JavaScript · Elixir |
-| [**qex**](https://github.com/AndreaPallotta/qex) | — | HTML · Python · Shell |
+| [**ez-templates**](https://github.com/AndreaPallotta/ez-templates) | CLI tool to bootstrap pre-configured project templates | TypeScript · Rust · JavaScript · Elixir |
+| [**qex**](https://github.com/AndreaPallotta/qex) | Lightweight experiment-runner and lab notebook for quantum computing | HTML · Python · Shell |
 | [**oura-whatsapp-bort**](https://github.com/AndreaPallotta/oura-whatsapp-bort) | Bot to forward Health data from Oura ring to Whatsapp | JavaScript · Shell · PowerShell |
 | [**gp\_forecast**](https://github.com/AndreaPallotta/gp_forecast) | Grand Prix prediction dashboard | Dart · C++ · CMake · Swift |
 <!-- PROJECTS:END -->
