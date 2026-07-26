@@ -104,17 +104,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreaPallotta&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AndreaPallotta)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AndreaPallotta&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaPallotta&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AndreaPallotta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
 
