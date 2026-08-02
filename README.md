@@ -86,12 +86,12 @@ Software engineer into systems programming, language design, and building things
 <!-- PROJECTS:START -->
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**zyra**](https://github.com/AndreaPallotta/zyra) | - | TypeScript · JavaScript |
+| [**personal-website**](https://github.com/AndreaPallotta/personal-website) | Personal Web Site | TypeScript · Astro · JavaScript · CSS |
+| [**cmake-gui-editor**](https://github.com/AndreaPallotta/cmake-gui-editor) | - | TypeScript · HTML · JavaScript |
 | [**subroutine**](https://github.com/AndreaPallotta/subroutine) | Interactive Blog with computing-related articles | TypeScript · MDX · Astro · CSS |
 | [**strathub**](https://github.com/AndreaPallotta/strathub) | Full stack tool to develop and manage trading strategies | TypeScript · Python · Rust · JavaScript |
 | [**ez-templates**](https://github.com/AndreaPallotta/ez-templates) | CLI tool to bootstrap pre-configured project templates | TypeScript · Rust · JavaScript · Elixir |
-| [**qex**](https://github.com/AndreaPallotta/qex) | Lightweight experiment-runner and lab notebook for quantum computing | HTML · Python · Shell |
-| [**oura-whatsapp-bort**](https://github.com/AndreaPallotta/oura-whatsapp-bort) | Bot to forward Health data from Oura ring to Whatsapp | JavaScript · Shell · PowerShell |
-| [**gp\_forecast**](https://github.com/AndreaPallotta/gp_forecast) | Grand Prix prediction dashboard | Dart · C++ · CMake · Swift |
 <!-- PROJECTS:END -->
 
 ---
