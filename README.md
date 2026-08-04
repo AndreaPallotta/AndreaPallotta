@@ -86,12 +86,12 @@ Software engineer into systems programming, language design, and building things
 <!-- PROJECTS:START -->
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**zyra**](https://github.com/AndreaPallotta/zyra) | - | TypeScript · JavaScript |
+| [**zyra**](https://github.com/AndreaPallotta/zyra) | - | TypeScript · Rust · JavaScript · Inno Setup |
 | [**personal-website**](https://github.com/AndreaPallotta/personal-website) | Personal Web Site | TypeScript · Astro · JavaScript · CSS |
-| [**cmake-gui-editor**](https://github.com/AndreaPallotta/cmake-gui-editor) | - | TypeScript · HTML · JavaScript |
-| [**subroutine**](https://github.com/AndreaPallotta/subroutine) | Interactive Blog with computing-related articles | TypeScript · MDX · Astro · CSS |
-| [**strathub**](https://github.com/AndreaPallotta/strathub) | Full stack tool to develop and manage trading strategies | TypeScript · Python · Rust · JavaScript |
-| [**ez-templates**](https://github.com/AndreaPallotta/ez-templates) | CLI tool to bootstrap pre-configured project templates | TypeScript · Rust · JavaScript · Elixir |
+| [**chronicle**](https://github.com/AndreaPallotta/chronicle) | - | Go · PowerShell |
+| [**darkmatter**](https://github.com/AndreaPallotta/darkmatter) | - | Go · JavaScript · CSS · HTML |
+| [**btplus**](https://github.com/AndreaPallotta/btplus) | C++ Bluetooth tool | C++ · PowerShell · C |
+| [**confignition**](https://github.com/AndreaPallotta/confignition) | NPM package to help manage configuration files in NodeJS | TypeScript · JavaScript |
 <!-- PROJECTS:END -->
 
 ---
