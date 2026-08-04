@@ -86,10 +86,10 @@ Software engineer into systems programming, language design, and building things
 <!-- PROJECTS:START -->
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**zyra**](https://github.com/AndreaPallotta/zyra) | - | TypeScript · Rust · JavaScript · Inno Setup |
+| [**zyra**](https://github.com/AndreaPallotta/zyra) | Fast, expressive, statically-typed compiled programming language | TypeScript · Rust · JavaScript · Inno Setup |
 | [**personal-website**](https://github.com/AndreaPallotta/personal-website) | Personal Web Site | TypeScript · Astro · JavaScript · CSS |
-| [**chronicle**](https://github.com/AndreaPallotta/chronicle) | - | Go · PowerShell |
-| [**darkmatter**](https://github.com/AndreaPallotta/darkmatter) | - | Go · JavaScript · CSS · HTML |
+| [**chronicle**](https://github.com/AndreaPallotta/chronicle) | Git activity TUI | Go · PowerShell |
+| [**darkmatter**](https://github.com/AndreaPallotta/darkmatter) | Antigravity remote bridge | Go · JavaScript · CSS · HTML |
 | [**btplus**](https://github.com/AndreaPallotta/btplus) | C++ Bluetooth tool | C++ · PowerShell · C |
 | [**confignition**](https://github.com/AndreaPallotta/confignition) | NPM package to help manage configuration files in NodeJS | TypeScript · JavaScript |
 <!-- PROJECTS:END -->
