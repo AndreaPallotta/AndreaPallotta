@@ -87,11 +87,11 @@ Software engineer into systems programming, language design, and building things
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**zyra**](https://github.com/AndreaPallotta/zyra) | Fast, expressive, statically-typed compiled programming language | TypeScript · Rust · JavaScript · Inno Setup |
-| [**personal-website**](https://github.com/AndreaPallotta/personal-website) | Personal Web Site | TypeScript · Astro · JavaScript · CSS |
+| [**keydrift**](https://github.com/AndreaPallotta/keydrift) | Environment variable drift detector and schema generator for multi-environment projects | TypeScript · JavaScript |
+| [**wasm-runner**](https://github.com/AndreaPallotta/wasm-runner) | WebAssembly binary compiler and standalone HTML terminal sandbox | — |
+| [**zephyr**](https://github.com/AndreaPallotta/zephyr) | Rust based file explorer | TypeScript · Rust · CSS · HTML |
 | [**chronicle**](https://github.com/AndreaPallotta/chronicle) | Git activity TUI | Go · PowerShell |
-| [**darkmatter**](https://github.com/AndreaPallotta/darkmatter) | Antigravity remote bridge | Go · JavaScript · CSS · HTML |
-| [**btplus**](https://github.com/AndreaPallotta/btplus) | C++ Bluetooth tool | C++ · PowerShell · C |
-| [**confignition**](https://github.com/AndreaPallotta/confignition) | NPM package to help manage configuration files in NodeJS | TypeScript · JavaScript |
+| [**personal-website**](https://github.com/AndreaPallotta/personal-website) | Personal Web Site | TypeScript · Astro · JavaScript · CSS |
 <!-- PROJECTS:END -->
 
 ---
