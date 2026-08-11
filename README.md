@@ -87,11 +87,11 @@ Software engineer into systems programming, language design, and building things
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**zyra**](https://github.com/AndreaPallotta/zyra) | Fast, expressive, statically-typed compiled programming language | TypeScript · Rust · JavaScript · Inno Setup |
-| [**keydrift**](https://github.com/AndreaPallotta/keydrift) | Environment variable drift detector and schema generator for multi-environment projects | TypeScript · JavaScript |
-| [**wasm-runner**](https://github.com/AndreaPallotta/wasm-runner) | WebAssembly binary compiler and standalone HTML terminal sandbox | — |
+| [**terra\_grid**](https://github.com/AndreaPallotta/terra_grid) | 2D ecosystem simulation game | Rust |
 | [**zephyr**](https://github.com/AndreaPallotta/zephyr) | Rust based file explorer | TypeScript · Rust · CSS · HTML |
-| [**chronicle**](https://github.com/AndreaPallotta/chronicle) | Git activity TUI | Go · PowerShell |
-| [**personal-website**](https://github.com/AndreaPallotta/personal-website) | Personal Web Site | TypeScript · Astro · JavaScript · CSS |
+| [**zyralink**](https://github.com/AndreaPallotta/zyralink) | URL shortener microservice written in Zyra | — |
+| [**subroutine**](https://github.com/AndreaPallotta/subroutine) | Interactive Blog with computing-related articles | TypeScript · MDX · Astro · CSS |
+| [**keydrift**](https://github.com/AndreaPallotta/keydrift) | Environment variable drift detector and schema generator for multi-environment projects | TypeScript · JavaScript |
 <!-- PROJECTS:END -->
 
 ---
