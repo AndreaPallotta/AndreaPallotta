@@ -86,12 +86,12 @@ Software engineer into systems programming, language design, and building things
 <!-- PROJECTS:START -->
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**zyra**](https://github.com/AndreaPallotta/zyra) | Fast, expressive, statically-typed compiled programming language | TypeScript · Rust · JavaScript · Inno Setup |
+| [**zyra**](https://github.com/AndreaPallotta/zyra) | Fast, expressive, statically-typed compiled programming language | Rust · TypeScript · JavaScript · Inno Setup |
 | [**axiomatic**](https://github.com/AndreaPallotta/axiomatic) | Autonomous Neurosymbolic Mathematical Discovery Engine with Real-Time Graphical Command Center | Rust · JavaScript · Python · Dockerfile |
+| [**agent-devkit**](https://github.com/AndreaPallotta/agent-devkit) | Deterministic CLI toolkit for zero-waste AI pair programming with Claude Code and Antigravity | PowerShell · Shell · JavaScript |
 | [**personal-website**](https://github.com/AndreaPallotta/personal-website) | Personal Web Site | TypeScript · Astro · JavaScript · CSS |
 | [**btplus**](https://github.com/AndreaPallotta/btplus) | C++ Bluetooth tool | C++ · PowerShell · C |
 | [**xpress-fuse**](https://github.com/AndreaPallotta/xpress-fuse) | - | TypeScript · JavaScript |
-| [**gp\_forecast**](https://github.com/AndreaPallotta/gp_forecast) | Grand Prix prediction dashboard | Dart · C++ · CMake · Swift |
 <!-- PROJECTS:END -->
 
 ---
