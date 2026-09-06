@@ -87,11 +87,11 @@ Software engineer into systems programming, language design, and building things
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**zyra**](https://github.com/AndreaPallotta/zyra) | Fast, expressive, statically-typed compiled programming language | Rust · TypeScript · JavaScript · Inno Setup |
-| [**axiomatic**](https://github.com/AndreaPallotta/axiomatic) | Autonomous Neurosymbolic Mathematical Discovery Engine with Real-Time Graphical Command Center | Rust · JavaScript · Python · Dockerfile |
+| [**chronicle**](https://github.com/AndreaPallotta/chronicle) | Git activity TUI | Go · PowerShell |
 | [**agent-devkit**](https://github.com/AndreaPallotta/agent-devkit) | Deterministic CLI toolkit for zero-waste AI pair programming with Claude Code and Antigravity | PowerShell · Shell · JavaScript |
+| [**civet**](https://github.com/AndreaPallotta/civet) | - | Go · Makefile |
+| [**axiomatic**](https://github.com/AndreaPallotta/axiomatic) | Autonomous Neurosymbolic Mathematical Discovery Engine with Real-Time Graphical Command Center | Rust · JavaScript · Python · Dockerfile |
 | [**personal-website**](https://github.com/AndreaPallotta/personal-website) | Personal Web Site | TypeScript · Astro · JavaScript · CSS |
-| [**btplus**](https://github.com/AndreaPallotta/btplus) | C++ Bluetooth tool | C++ · PowerShell · C |
-| [**xpress-fuse**](https://github.com/AndreaPallotta/xpress-fuse) | - | TypeScript · JavaScript |
 <!-- PROJECTS:END -->
 
 ---
